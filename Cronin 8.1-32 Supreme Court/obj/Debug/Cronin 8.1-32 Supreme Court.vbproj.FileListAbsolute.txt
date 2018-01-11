@@ -1,0 +1,22 @@
+C:\Users\Michael\Desktop\VB\Cronin 8.1-32 Supreme Court\Cronin 8.1-32 Supreme Court\bin\Debug\Cronin 8.1-32 Supreme Court.exe.config
+C:\Users\Michael\Desktop\VB\Cronin 8.1-32 Supreme Court\Cronin 8.1-32 Supreme Court\obj\Debug\Cronin_8._1_32_Supreme_Court.frmJustices.resources
+C:\Users\Michael\Desktop\VB\Cronin 8.1-32 Supreme Court\Cronin 8.1-32 Supreme Court\obj\Debug\Cronin_8._1_32_Supreme_Court.Resources.resources
+C:\Users\Michael\Desktop\VB\Cronin 8.1-32 Supreme Court\Cronin 8.1-32 Supreme Court\obj\Debug\Cronin 8.1-32 Supreme Court.vbproj.GenerateResource.Cache
+C:\Users\Michael\Desktop\VB\Cronin 8.1-32 Supreme Court\Cronin 8.1-32 Supreme Court\bin\Debug\Cronin 8.1-32 Supreme Court.exe
+C:\Users\Michael\Desktop\VB\Cronin 8.1-32 Supreme Court\Cronin 8.1-32 Supreme Court\bin\Debug\Cronin 8.1-32 Supreme Court.pdb
+C:\Users\Michael\Desktop\VB\Cronin 8.1-32 Supreme Court\Cronin 8.1-32 Supreme Court\bin\Debug\Cronin 8.1-32 Supreme Court.xml
+C:\Users\Michael\Desktop\VB\Cronin 8.1-32 Supreme Court\Cronin 8.1-32 Supreme Court\obj\Debug\Cronin 8.1-32 Supreme Court.vbprojResolveAssemblyReference.cache
+C:\Users\Michael\Desktop\VB\Cronin 8.1-32 Supreme Court\Cronin 8.1-32 Supreme Court\obj\Debug\Cronin 8.1-32 Supreme Court.exe
+C:\Users\Michael\Desktop\VB\Cronin 8.1-32 Supreme Court\Cronin 8.1-32 Supreme Court\obj\Debug\Cronin 8.1-32 Supreme Court.xml
+C:\Users\Michael\Desktop\VB\Cronin 8.1-32 Supreme Court\Cronin 8.1-32 Supreme Court\obj\Debug\Cronin 8.1-32 Supreme Court.pdb
+C:\Users\Michael\Desktop\Schooled\VB\Cronin 8.1-32 Supreme Court\Cronin 8.1-32 Supreme Court\bin\Debug\Cronin 8.1-32 Supreme Court.exe.config
+C:\Users\Michael\Desktop\Schooled\VB\Cronin 8.1-32 Supreme Court\Cronin 8.1-32 Supreme Court\obj\Debug\Cronin 8.1-32 Supreme Court.exe
+C:\Users\Michael\Desktop\Schooled\VB\Cronin 8.1-32 Supreme Court\Cronin 8.1-32 Supreme Court\obj\Debug\Cronin 8.1-32 Supreme Court.xml
+C:\Users\Michael\Desktop\Schooled\VB\Cronin 8.1-32 Supreme Court\Cronin 8.1-32 Supreme Court\obj\Debug\Cronin 8.1-32 Supreme Court.pdb
+C:\Users\Michael\Desktop\Schooled\VB\Cronin 8.1-32 Supreme Court\Cronin 8.1-32 Supreme Court\bin\Debug\Cronin 8.1-32 Supreme Court.exe
+C:\Users\Michael\Desktop\Schooled\VB\Cronin 8.1-32 Supreme Court\Cronin 8.1-32 Supreme Court\bin\Debug\Cronin 8.1-32 Supreme Court.pdb
+C:\Users\Michael\Desktop\Schooled\VB\Cronin 8.1-32 Supreme Court\Cronin 8.1-32 Supreme Court\bin\Debug\Cronin 8.1-32 Supreme Court.xml
+C:\Users\Michael\Desktop\Schooled\VB\Cronin 8.1-32 Supreme Court\Cronin 8.1-32 Supreme Court\obj\Debug\Cronin 8.1-32 Supreme Court.vbprojResolveAssemblyReference.cache
+C:\Users\Michael\Desktop\Schooled\VB\Cronin 8.1-32 Supreme Court\Cronin 8.1-32 Supreme Court\obj\Debug\Cronin_8._1_32_Supreme_Court.frmJustices.resources
+C:\Users\Michael\Desktop\Schooled\VB\Cronin 8.1-32 Supreme Court\Cronin 8.1-32 Supreme Court\obj\Debug\Cronin_8._1_32_Supreme_Court.Resources.resources
+C:\Users\Michael\Desktop\Schooled\VB\Cronin 8.1-32 Supreme Court\Cronin 8.1-32 Supreme Court\obj\Debug\Cronin 8.1-32 Supreme Court.vbproj.GenerateResource.Cache
